@@ -4,8 +4,7 @@ This repository is for the Module 18 Challenge
  ### References:
 
 
-
-[To understand in more depth the differences across the different types of recommendation system filters .] (https://developers.google.com/machine-learning/recommendation)
+[To understand in more depth the differences across the different types of recommendation system filters .](https://developers.google.com/machine-learning/recommendation)
 
 
 
